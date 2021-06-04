@@ -34,4 +34,5 @@
   - Comparison across different states
   - [Code](COVID-19-analysis/covid-19_ca.py)
   - Results and graphs:
+  <img src="COVID-19-analysis/Poisson.png" alt="Poisson regression"/>
    
