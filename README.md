@@ -35,5 +35,13 @@
   - [Code](covid-19_ca.py)
   - Results and graphs:
   
+  The first image is the plot of actual COVID-19 cases in Canada against the model predicted values. This Possion regression model somehere captures the dynamic of   changes of COVID-19 cases number.
+  
   <img src="Poisson.png" alt="Poisson regression"/>
+  
+ 
+ 
+ - [Dashboard](https://public.tableau.com/app/profile/yangzixuan5243/viz/COVID-19CanadaViz/Dashboard1)
+  
+  Finally, here is a Dashboard made from Tableau Public on the original dataset.
    
