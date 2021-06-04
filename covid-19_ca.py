@@ -35,9 +35,9 @@ prediction_summary_frame = predict.summary_frame()
 print(prediction_summary_frame)
 predict_counts = prediction_summary_frame['mean']
 fig, ax = plt.subplots()
-ax.plot(X.index, predict_counts, label='prediction')
+ax.plot(X.index, predict_counts, label='model')
 ax.plot(X.index, national['change_cases'], label='actual')
-ax.set_title('actual vs. prediction')
+ax.set_title('actual vs. model (Poisson)')
 ax.legend()
 plt.show()
 
